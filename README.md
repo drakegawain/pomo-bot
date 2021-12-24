@@ -1,2 +1,2 @@
 # pomo-bot
-A discord bot that provides pomodoro technique for study and work.
+A discord bot that provides pomodoro's technique for study and work.
